@@ -1,0 +1,7 @@
+C:/Users/ruxue/Documents/SFSU-Master-Program/HPC/assignment4/mmul-omp-harness-instructional/build/CMakeFiles/benchmark.dir
+C:/Users/ruxue/Documents/SFSU-Master-Program/HPC/assignment4/mmul-omp-harness-instructional/build/CMakeFiles/benchmark-basic-omp.dir
+C:/Users/ruxue/Documents/SFSU-Master-Program/HPC/assignment4/mmul-omp-harness-instructional/build/CMakeFiles/benchmark-blas.dir
+C:/Users/ruxue/Documents/SFSU-Master-Program/HPC/assignment4/mmul-omp-harness-instructional/build/CMakeFiles/benchmark-blocked-omp.dir
+C:/Users/ruxue/Documents/SFSU-Master-Program/HPC/assignment4/mmul-omp-harness-instructional/build/CMakeFiles/bench-blocked-omp.dir
+C:/Users/ruxue/Documents/SFSU-Master-Program/HPC/assignment4/mmul-omp-harness-instructional/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/ruxue/Documents/SFSU-Master-Program/HPC/assignment4/mmul-omp-harness-instructional/build/CMakeFiles/ZERO_CHECK.dir

@@ -1,0 +1,6 @@
+# author: R. Jin,Sep. 2024,,,
+# data for use with the plot_3vars.py file,,,,
+Problem Size,thread 1,thread 4,thread 16,thread 64
+128,1.00,3.12,12.47,12.47
+512,1.00,3.83,12.01,30.90
+2048,1.00,3.86,14.27,53.10

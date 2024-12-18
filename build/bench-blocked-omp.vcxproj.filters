@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\ruxue\Documents\SFSU-Master-Program\HPC\assignment4\mmul-omp-harness-instructional\benchmark.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\ruxue\Documents\SFSU-Master-Program\HPC\assignment4\mmul-omp-harness-instructional\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{8ADD037E-771D-3111-A423-A81E2455A8FB}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
